@@ -1,0 +1,265 @@
+/* ===== КЛАССИЧЕСКИЙ CSS RESET ===== */
+/* Eric Meyer's CSS Reset (упрощенная версия) */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, p,
+a, img, ul, ol, li, table, tbody, tr, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* Убираем стили списков */
+ul, ol {
+  list-style: none;
+}
+
+/* Убираем подчеркивание ссылок */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ===== МИНИМАЛЬНЫЙ RESET ===== */
+/* Современный подход - сбрасываем только необходимое */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+/* ===== CSS NORMALIZE (примеры правил) ===== */
+/* Основанный на normalize.css */
+
+/* Исправляем отображение HTML5 элементов */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, main, nav, section, summary {
+  display: block;
+}
+
+/* Корректируем размер шрифта */
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+/* Унифицируем отступы body */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+/* Исправляем отображение ссылок */
+a:focus {
+  outline: thin dotted;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+/* Нормализуем заголовки */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0;
+}
+
+/* Исправляем баг с изображениями в IE */
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+/* ===== СОВРЕМЕННЫЙ NORMALIZE ===== */
+/* Для современных браузеров */
+:root {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  tab-size: 4;
+}
+
+body {
+  margin: 0;
+  font-family: 
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+/* Исправляем наследование font-weight */
+b, strong {
+  font-weight: bolder;
+}
+
+/* Нормализуем моноширинные шрифты */
+code, kbd, samp, pre {
+  font-family: 
+    ui-monospace,
+    SFMono-Regular,
+    Consolas,
+    'Liberation Mono',
+    Menlo,
+    monospace;
+  font-size: 1em;
+}
+
+/* ===== КОМБИНИРОВАННЫЙ ПОДХОД ===== */
+/* Reset для критичных свойств + Normalize для остального */
+
+/* Reset базовых отступов */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Normalize полезных стилей */
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: #fff;
+  color: #333;
+}
+
+/* Сохраняем семантику заголовков, но контролируем отступы */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.17rem; }
+
+/* Нормализуем списки */
+ul, ol {
+  margin-left: 2em;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+/* ===== КАСТОМНЫЙ RESET ДЛЯ ПРОЕКТА ===== */
+/* Tailored для конкретных нужд */
+
+/* Базовый reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; /* 1rem = 10px */
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 1.6rem; /* 16px */
+  line-height: 1.6;
+  font-family: 'Inter', system-ui, sans-serif;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  margin: 0;
+}
+
+/* Убираем focus outline, но добавляем для клавиатуры */
+*:focus {
+  outline: none;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--focus-color);
+  outline-offset: 2px;
+}
+
+/* Стили для изображений */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Кнопки */
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  font: inherit;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+/* Формы */
+input, textarea, select {
+  font: inherit;
+  color: inherit;
+}
+
+/* ===== УТИЛИТАРНЫЕ КЛАССЫ ===== */
+/* Дополнительные помощники */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
