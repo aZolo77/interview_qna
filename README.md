@@ -10,6 +10,7 @@
 ### JavaScript Основы
 - [01. Разница между let, var и const](./javascript/01-let-var-const/)
 - [02. Cookie, sessionStorage и localStorage](./javascript/02-storage-comparison/)
+- [03. Что такое NaN](./javascript/03-nan/)
 
 ### Производительность
 - [01. Прогрессивная отрисовка](./performance/01-progressive-rendering/)
@@ -19,6 +20,7 @@
 
 ### Сетевое взаимодействие
 - [01. Всё о REST API | базовые HTTP запросы](./networking/01-rest-api/)
+- [02. Трёхстороннее рукопожатие](./networking/02-tcp-handshake/)
 
 ### React
 - [Скоро будет добавлено...]
