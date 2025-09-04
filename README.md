@@ -6,11 +6,17 @@
 
 ### CSS & HTML
 - [01. Разница между «сбросом» и «нормализацией» CSS](./css-html/01-reset-normalize/)
+- [02. Специфичность CSS-селекторов](./css-html/02-css-specificity/)
+- [03. Составные части HTML5](./css-html/03-html-web-platform/)
+- [04. Grid VS Flexbox](./css-html/04-grid-vs-flexbox/)
 
 ### JavaScript Основы
 - [01. Разница между let, var и const](./javascript/01-let-var-const/)
 - [02. Cookie, sessionStorage и localStorage](./javascript/02-storage-comparison/)
 - [03. Что такое NaN](./javascript/03-nan/)
+- [04. Event Loop](./javascript/04-event-loop/)
+- [05. Разница между .call() и .apply()](./javascript/05-call-apply/)
+- [06. Анонимные функции](./javascript/06-anonymous-functions/)
 
 ### Производительность
 - [01. Прогрессивная отрисовка](./performance/01-progressive-rendering/)
@@ -21,6 +27,7 @@
 ### Сетевое взаимодействие
 - [01. Всё о REST API | базовые HTTP запросы](./networking/01-rest-api/)
 - [02. Трёхстороннее рукопожатие](./networking/02-tcp-handshake/)
+- [03. Реализация Long Polling, WebSockets и Server-Sent Events](./networking/03-realtime/)
 
 ### React
 - [Скоро будет добавлено...]
