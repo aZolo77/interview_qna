@@ -17,6 +17,10 @@
 - [04. Event Loop](./javascript/04-event-loop/)
 - [05. Разница между .call() и .apply()](./javascript/05-call-apply/)
 - [06. Анонимные функции](./javascript/06-anonymous-functions/)
+- [07. Типы данных](./javascript/07-data-types/)
+- [08. Ключевое слово `this`](./javascript/08-this-key-word/)
+- [09. Наследование](./javascript/09-inheritance/)
+- [10. Разница между `==` и `===`](./javascript/10-strict-loose-comparison/)
 
 ### Производительность
 - [01. Прогрессивная отрисовка](./performance/01-progressive-rendering/)
