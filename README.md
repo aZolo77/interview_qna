@@ -21,6 +21,11 @@
 - [08. Ключевое слово `this`](./javascript/08-this-key-word/)
 - [09. Наследование](./javascript/09-inheritance/)
 - [10. Разница между `==` и `===`](./javascript/10-strict-loose-comparison/)
+- [11. Замыкания (Closures)](./javascript/11-closures/)
+- [12. Область видимости (Scope) и цепочка областей видимости (Scope Chain)](./javascript/12-scope-chain/)
+- [13. Promise и его состояния](./javascript/13-promise/)
+- [14. Разница и сходство между null и undefined](./javascript/14-null-undefined/)
+- [15. Функции высшего порядка](./javascript/15-hof/)
 
 ### Производительность
 - [01. Прогрессивная отрисовка](./performance/01-progressive-rendering/)
