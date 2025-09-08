@@ -26,6 +26,11 @@
 - [13. Promise и его состояния](./javascript/13-promise/)
 - [14. Разница и сходство между null и undefined](./javascript/14-null-undefined/)
 - [15. Функции высшего порядка](./javascript/15-hof/)
+- [16. Async/Await](./javascript/16-async-await/)
+- [17. Spread vs Rest оператор](./javascript/17-spread-rest/)
+- [18. Как определить наличие свойства в объекте](./javascript/18-has-own-property/)
+- [19. Чем отличается `Map` от `WeakMap`](./javascript/19-map-vs-weakmap/)
+- [20. Чем отличается `Set` от `WeakSet`](./javascript/20-set-vs-weakset/)
 
 ### Производительность
 - [01. Прогрессивная отрисовка](./performance/01-progressive-rendering/)
