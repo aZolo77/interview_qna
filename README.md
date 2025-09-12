@@ -51,7 +51,9 @@
 - [Скоро будет добавлено...]
 
 ### TypeScript
-- [Скоро будет добавлено...]
+- [01. Что такое TypeScript и чем он отличается от JavaScript](./typescript/01-typescript-basics/)
+- [02. Компилятор TypeScript](./typescript/02-typescript-compiler/)
+- [03. Встроенные типы TypeScript](./typescript/03-built-in-types/)
 
 ### Алгоритмы и структуры данных
 - [Скоро будет добавлено...]
