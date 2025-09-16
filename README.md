@@ -54,6 +54,17 @@
 - [01. Что такое TypeScript и чем он отличается от JavaScript](./typescript/01-typescript-basics/)
 - [02. Компилятор TypeScript](./typescript/02-typescript-compiler/)
 - [03. Встроенные типы TypeScript](./typescript/03-built-in-types/)
+- [04. ООП принципы в TypeScript](./typescript/04-oop/)
+- [05. Интерфейсы vs Классы](./typescript/05-interfaces-vs-classes/)
+- [06. Interface vs Type](./typescript/06-interface-vs-type/)
+- [07. Модули в TypeScript](./typescript/07-modules/)
+- [08. Перегрузка функций](./typescript/08-function-overload/)
+- [09. Разница между типами объединения (Union) и пересечения (Intersection)](./typescript/09-union-intersection/)
+- [10. Extends vs Implements](./typescript/10-extends-vs-implements/)
+- [11. Type Assertions](./typescript/11-type-assertions/)
+- [12. Для чего используется оператор keyof](./typescript/12-keyof-operator/)
+- [13. Модификаторы Доступа](./typescript/13-access-modifiers/)
+- [14. Generics](./typescript/14-generics/)
 
 ### Алгоритмы и структуры данных
 - [Скоро будет добавлено...]
