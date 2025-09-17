@@ -65,6 +65,14 @@
 - [12. Для чего используется оператор keyof](./typescript/12-keyof-operator/)
 - [13. Модификаторы Доступа](./typescript/13-access-modifiers/)
 - [14. Generics](./typescript/14-generics/)
+- [15. Mixins](./typescript/15-mixins/)
+- [16. Enum](./typescript/16-enum/)
+- [17. Conditional Types](./typescript/17-conditional-types/)
+- [18. Чем отличаются any, never и unknown](./typescript/18-any-never-unknown/)
+- [19. Mapped Types](./typescript/19-mapped-types/)
+- [20. Декораторы](./typescript/20-decorators/)
+- [21. Утилиты (Utility Types)](./typescript/21-utilities/)
+- [22. Map-файлы](./typescript/22-map-files/)
 
 ### Алгоритмы и структуры данных
 - [Скоро будет добавлено...]
