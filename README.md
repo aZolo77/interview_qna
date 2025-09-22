@@ -9,6 +9,11 @@
 - [02. Специфичность CSS-селекторов](./css-html/02-css-specificity/)
 - [03. Составные части HTML5](./css-html/03-html-web-platform/)
 - [04. Grid VS Flexbox](./css-html/04-grid-vs-flexbox/)
+- [05. Доступность (Accessibility, A11y) в веб-разработке](./css-html/05-accessibility/)
+- [06. SEO: основные инструменты и практики](./css-html/06-seo/)
+- [07. Web Components и Shadow DOM](./css-html/07-web-components-shadow-dom/)
+- [08. Контекст наложения (Stacking Context) в CSS](./css-html/08-stacking-context/)
+- [09. Вендорные префиксы (Vendor prefixes) в CSS](./css-html/09-vendor-prefixes/)
 
 ### JavaScript Основы
 - [01. Разница между let, var и const](./javascript/01-let-var-const/)
@@ -35,6 +40,10 @@
 - [22. Что такое контекст выполнения](./javascript/22-execution-context/)
 - [23. Что такое стек вызовов](./javascript/23-call-stack/)
 - [24. Что такое JavaScript AST (Abstract Syntax Tree)](./javascript/24-ast/)
+- [25. Web Workers](./javascript/25-web-workers/)
+- [26. Service Workers](./javascript/26-service-workers/)
+- [27. Объект Proxy](./javascript/27-proxy/)
+- [28. Генераторы](./javascript/28-generators/)
 
 ### Производительность
 - [01. Прогрессивная отрисовка](./performance/01-progressive-rendering/)
