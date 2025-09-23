@@ -55,6 +55,9 @@
 - [01. Всё о REST API | базовые HTTP запросы](./networking/01-rest-api/)
 - [02. Трёхстороннее рукопожатие](./networking/02-tcp-handshake/)
 - [03. Реализация Long Polling, WebSockets и Server-Sent Events](./networking/03-realtime/)
+- [04. Протоколы и подходы для общения клиент ↔ сервер](./networking/04-client-server/)
+- [05. WebSocket](./networking/05-websocket/)
+- [06. Server-Sent Events (SSE)](./networking/06-sse/)
 
 ### React
 - [Скоро будет добавлено...]
