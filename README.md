@@ -50,6 +50,7 @@
 - [02. Атрибуты тега Script | Async VS Defer](./performance/02-defer-vs-async/)
 - [03. Lazy Loading изображений](./performance/03-lazy-loading-images/)
 - [04. Оптимизация изображений | srcset и picture](./performance/04-responsive-images/)
+- [05. Web Performance и ключевые метрики](./performance/05-key-metrics/)
 
 ### Сетевое взаимодействие
 - [01. Всё о REST API | базовые HTTP запросы](./networking/01-rest-api/)
@@ -61,6 +62,9 @@
 
 ### React
 - [Скоро будет добавлено...]
+
+### NextJS
+- [01. Разница между CSR, SSR, SSG, ISR](./nextjs/01-csr-ssr-ssg-isr/)
 
 ### TypeScript
 - [01. Что такое TypeScript и чем он отличается от JavaScript](./typescript/01-typescript-basics/)
@@ -86,8 +90,14 @@
 - [21. Утилиты (Utility Types)](./typescript/21-utilities/)
 - [22. Map-файлы](./typescript/22-map-files/)
 
-### Алгоритмы и структуры данных
-- [Скоро будет добавлено...]
+### Паттерны проектирования
+- [01. Паттерны проектирования: Порождающие, Структурные, Поведенческие](./patterns/01-creational-structural-behavioral/)
+
+### Тестирование
+- [01. Подходы к разработке: TDD, BDD и другие](./testing/01-tdd-bdd/)
+- [02. Виды тестов: Unit, Integration и E2E](./testing/02-unit-e2e-intergation/)
+- [03. Прочие виды тестов](./testing/03-additional-test-types/)
+- [04. Инструменты для тестирования во Frontend](./testing/04-testing-tools/)
 
 ### Инструменты и сборка
 - [Скоро будет добавлено...]
