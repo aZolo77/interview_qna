@@ -102,7 +102,17 @@
 - [09. Структурный паттерн: Decorator (Декоратор, Обёртка)](./patterns/09-decorator/)
 - [10. Структурный паттерн: Facade (Фасад)](./patterns/10-facade/)
 - [11. Структурный паттерн: Flyweight (Легковес, Приспособленец, Кэш)](./patterns/11-flyweight/)
-- [12. Структурный паттерн: Proxy (Заместитель))](./patterns/12-proxy/)
+- [12. Структурный паттерн: Proxy (Заместитель)](./patterns/12-proxy/)
+- [13. Поведенческий паттерн: Chain of Responsibility (Цепочка обязанностей)](./patterns/13-cor/)
+- [14. Поведенческий паттерн: Command (Команда, Действие, Транзакция)](./patterns/14-command/)
+- [15. Поведенческий паттерн: Iterator (Итератор)](./patterns/15-iterator/)
+- [16. Поведенческий паттерн: Mediator (Посредник, Intermediary, Controller)](./patterns/16-mediator/)
+- [17. Поведенческий паттерн: Memento (Снимок, Хранитель)](./patterns/17-memento/)
+- [18. Поведенческий паттерн: Observer (Наблюдатель, Издатель-Подписчик, Слушатель)](./patterns/18-observer/)
+- [19. Поведенческий паттерн: State (Состояние)](./patterns/19-state/)
+- [20. Поведенческий паттерн: Strategy (Стратегия)](./patterns/20-strategy/)
+- [21. Поведенческий паттерн: Template Method (Шаблонный метод)](./patterns/21-template/)
+- [22. Поведенческий паттерн: Visitor (Посетитель)](./patterns/22-visitor/)
 
 ### Тестирование
 - [01. Подходы к разработке: TDD, BDD и другие](./testing/01-tdd-bdd/)
