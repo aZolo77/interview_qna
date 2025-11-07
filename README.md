@@ -61,7 +61,24 @@
 - [06. Server-Sent Events (SSE)](./networking/06-sse/)
 
 ### React
-- [Скоро будет добавлено...]
+- [01. Что такое Virtual DOM](./react/01-virtual-dom/)
+- [02. Чем отличается Class-компонент от Функционального](./react/02-class-vs-functional-component/)
+- [03. Хук useEffect](./react/03-use-effect/)
+- [04. useMemo и useCallback](./react/04-usememo-usecallback/)
+- [05. Поднятие состояния (Lifting State Up)](./react/05-lifting-state-up/)
+- [06. Что делает `key` в списках React](./react/06-key-in-list-items/)
+- [07. Почему нельзя напрямую мутировать `state`](./react/07-mutate-state/)
+- [08. Как работают замыкания в обработчиках](./react/08-closures/)
+- [09. Что такое debounce и throttle](./react/09-debounce-throttle/)
+- [10. Как организовать работу с API](./react/10-api-interaction/)
+- [11. Что такое интерсепторы в контексте Axios](./react/11-interceptors/)
+- [12. Когда использовать Context API, Redux или Zustand](./react/12-redux-zustand-context-api/)
+- [13. HOC и Custom Hook — в чём разница?](./react/13-hoc-hook/)
+- [14. Как оптимизировать большое React-приложение](./react/14-optimization/)
+- [15. Кастомный хук `useFetch`](./react/15-use-fetch-custom-hook/)
+- [16. Autocomplete с debounce](./react/16-autocomplete-debounce/)
+- [17. useState: как сохранить данные формы в состояние](./react/17-formdata-state/)
+- [18. Подписка на изменение размера окна и очистка при размонтировании](./react/18-window-resize/)
 
 ### NextJS
 - [01. Разница между CSR, SSR, SSG, ISR](./nextjs/01-csr-ssr-ssg-isr/)
